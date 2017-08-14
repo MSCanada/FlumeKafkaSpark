@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\bigdata_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	example\KafkaWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\classes\example\KafkaWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	example\KafkaWordCount$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\classes\example\KafkaWordCount$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	example\KafkaWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\classes\example\KafkaWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	example\KafkaWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\classes\example\KafkaWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	example[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\classes\example[0m
+[0m[[0mdebug[0m] [0m	example\KafkaWordCount$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\classes\example\KafkaWordCount$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	example\KafkaWordCount$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\classes\example\KafkaWordCount$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	example\KafkaWordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\classes\example\KafkaWordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	example\KafkaWordCount.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\muhammad.suhail\BigDataProject\bigdata\target\scala-2.11\classes\example\KafkaWordCount.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
